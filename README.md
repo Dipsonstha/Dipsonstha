@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dipson04517528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipson04517528" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dipson-shrestha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipson-shrestha/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipson-shrestha-18697a284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipson-shrestha/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23578948/dipson-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23578948/dipson-shrestha" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/diperson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/diperson/" height="30" width="40" /></a>
 </p>
